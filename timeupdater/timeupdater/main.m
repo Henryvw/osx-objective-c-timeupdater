@@ -28,8 +28,8 @@ int main(int argc, const char * argv[]) {
         
         // Do whatever you need to set the following variable
         // In this example I am hard-coding it
-        int month = 8;
-        int day = 23;
+        int month = 9;
+        int day = 20;
         int year = 2017;
         
         NSLog(@"Getting current date/time...");
