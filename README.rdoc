@@ -1,0 +1,13 @@
+== README
+
+# Updating Time
+
+1. First, update the date in the .m file.
+2. Then, go to Product - Build.
+3. Then, it builds somewhere mysterious. Find it in Finder. It will appear in the left-and pane.
+4. Then, run it with SUDO. For example, "sudo /Users/Henryvw/workspace/TimeUpdatingSystem/timeupdater"
+5. There you go!
+
+6. If you are at an unrestricted place for WLAN (not most cafes) where you have better Wireless access, you can run in the terminal:
+      sudo ntpdate -u time.apple.com
+That will fetch the time.
